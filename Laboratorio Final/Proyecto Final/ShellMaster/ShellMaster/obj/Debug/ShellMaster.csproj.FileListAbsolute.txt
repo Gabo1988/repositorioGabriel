@@ -1,0 +1,16 @@
+c:\users\anonimo\documents\visual studio 2012\Projects\ShellMaster\ShellMaster\bin\Debug\ShellMaster.exe
+c:\users\anonimo\documents\visual studio 2012\Projects\ShellMaster\ShellMaster\bin\Debug\ShellMaster.pdb
+c:\users\anonimo\documents\visual studio 2012\Projects\ShellMaster\ShellMaster\obj\Debug\ShellMaster.exe
+c:\users\anonimo\documents\visual studio 2012\Projects\ShellMaster\ShellMaster\obj\Debug\ShellMaster.pdb
+C:\Users\GRUPO\Documents\GitHub\proyecto_ultron\ShellMaster\ShellMaster\obj\Debug\ShellMaster.exe
+C:\Users\GRUPO\Documents\GitHub\proyecto_ultron\ShellMaster\ShellMaster\obj\Debug\ShellMaster.pdb
+C:\Users\Anonimo\Documents\GitHub\proyecto_ultron\ShellMaster\ShellMaster\obj\Debug\ShellMaster.exe
+C:\Users\Anonimo\Documents\GitHub\proyecto_ultron\ShellMaster\ShellMaster\obj\Debug\ShellMaster.pdb
+C:\Users\Anonimo\Documents\GitHub\proyecto_ultron\ShellMaster\ShellMaster\bin\Debug\ShellMaster.exe
+C:\Users\Anonimo\Documents\GitHub\proyecto_ultron\ShellMaster\ShellMaster\bin\Debug\ShellMaster.pdb
+C:\Users\Anonimo\Documents\GitHub\proyecto_ultron\ShellMaster\ShellMaster\obj\Debug\ShellMaster.csprojResolveAssemblyReference.cache
+C:\Users\Anonimo\Desktop\Proyecto Ultron Final\ShellMaster\ShellMaster\obj\Debug\ShellMaster.exe
+C:\Users\Anonimo\Desktop\Proyecto Ultron Final\ShellMaster\ShellMaster\obj\Debug\ShellMaster.pdb
+C:\Users\Anonimo\Desktop\Proyecto Ultron Final\ShellMaster\ShellMaster\bin\Debug\ShellMaster.exe
+C:\Users\Anonimo\Desktop\Proyecto Ultron Final\ShellMaster\ShellMaster\bin\Debug\ShellMaster.pdb
+C:\Users\Anonimo\Desktop\Proyecto Ultron Final\ShellMaster\ShellMaster\obj\Debug\ShellMaster.csprojResolveAssemblyReference.cache
